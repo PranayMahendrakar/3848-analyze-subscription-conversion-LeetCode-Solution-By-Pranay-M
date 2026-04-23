@@ -5,3 +5,4 @@
 - [2026-04-23T18:07:05Z] test: add unit tests for core module
 - [2026-04-23T12:17:53Z] docs: update README with usage examples
 - [2026-04-23T15:48:06Z] feat: add helper utility function
+- [2026-04-23T15:36:44Z] fix: resolve edge case in input validation
