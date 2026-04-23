@@ -4,3 +4,4 @@
 - [2026-04-23T22:56:12Z] test: add unit tests for core module
 - [2026-04-23T18:07:05Z] test: add unit tests for core module
 - [2026-04-23T12:17:53Z] docs: update README with usage examples
+- [2026-04-23T15:48:06Z] feat: add helper utility function
